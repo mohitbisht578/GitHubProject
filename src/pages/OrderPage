@@ -1,0 +1,11 @@
+package src.pages;
+
+public class OrderPage {
+
+	public static void main(String[] args) {
+
+		System.out.println("order page");
+
+		System.out.println("order page feature");
+	}
+}
