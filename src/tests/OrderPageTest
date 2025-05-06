@@ -1,0 +1,9 @@
+package src.tests;
+
+public class OrderPageTest {
+
+	public void orderTest() {
+		System.out.println("Order test");
+	}
+
+}
